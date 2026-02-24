@@ -1,1 +1,2 @@
-# repo-platzi-ubuntu
+
+# repo-platzi-ubuntu editado desde pc
